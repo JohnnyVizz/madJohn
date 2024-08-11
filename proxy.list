@@ -52,6 +52,8 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,i.ytimg.com
+DOMAIN-SUFFIX,i9.ytimg.com
 DOMAIN-KEYWORD,youtube
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
