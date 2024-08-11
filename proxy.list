@@ -1,3 +1,8 @@
+DOMAIN-SUFFIX,googlevideo.com
+DDOMAIN-KEYWORD,ggpht.com
+DOMAIN-KEYWORD,ytimg.com
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
@@ -51,8 +56,3 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,googlevideo.com
-DDOMAIN-KEYWORD,ggpht.com
-DOMAIN-KEYWORD,ytimg.com
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,play.google.com
