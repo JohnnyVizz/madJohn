@@ -48,10 +48,12 @@ DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,googlevideo.com
+DDOMAIN-KEYWORD,ggpht.com
+DOMAIN-KEYWORD,ytimg
 DOMAIN-KEYWORD,youtube
