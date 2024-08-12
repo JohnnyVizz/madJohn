@@ -67,5 +67,5 @@ DOMAIN-SUFFIX,rutracker.org
 DOMAIN-KEYWORD,instagram
 # Fantasy Premier League
 DOMAIN-SUFFIX, premierleague.com
-DOMAIN-SUFFIX,pulselive.com,PROXY
-DOMAIN-SUFFIX,onetrust.com,PROXY
+DOMAIN-SUFFIX,pulselive.com
+DOMAIN-SUFFIX,onetrust.com
