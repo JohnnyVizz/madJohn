@@ -65,4 +65,7 @@ USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-KEYWORD,instagram
+# Fantasy Premier League
 DOMAIN-SUFFIX, premierleague.com
+DOMAIN-SUFFIX,pulselive.com,PROXY
+DOMAIN-SUFFIX,onetrust.com,PROXY
