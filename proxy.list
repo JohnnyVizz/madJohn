@@ -74,3 +74,9 @@ DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,formula1.com
+# Discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.gg
