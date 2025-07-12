@@ -80,3 +80,10 @@ DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discord.gg
+
+# Spotify
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,audio.spotify.com
+DOMAIN-SUFFIX,ap.spotify.com
+
+
