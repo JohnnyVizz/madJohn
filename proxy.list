@@ -85,5 +85,5 @@ DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,audio.spotify.com
 DOMAIN-SUFFIX,ap.spotify.com
-
+DOMAIN-KEYWORD,spotifycdn
 
