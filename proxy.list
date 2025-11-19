@@ -92,6 +92,28 @@ DOMAIN,api.x.ai
 DOMAIN,console.x.ai
 DOMAIN,grok.x.com
 DOMAIN-SUFFIX,grok.x.ai
+#Gemini
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,geminicommerce.com
+
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.google.com.ai
+DOMAIN-SUFFIX,bard.google.com
+
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,aida.googleapis.com
+DOMAIN,content-generativelanguage.googleapis.com
+
+# Для изображений и превью в ответах Gemini
+DOMAIN-SUFFIX,tbn0.google.com
+DOMAIN-SUFFIX,tbn1.google.com
+DOMAIN-SUFFIX,tbn2.google.com
+DOMAIN-SUFFIX,tbn3.google.com
 
 # Spotify
 DOMAIN-SUFFIX,spotify.com
