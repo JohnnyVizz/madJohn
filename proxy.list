@@ -80,6 +80,18 @@ DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discord.gg
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,xtwitter.com
+DOMAIN,api.x.ai
+DOMAIN,console.x.ai
+DOMAIN,grok.x.com
+DOMAIN-SUFFIX,grok.x.ai
 
 # Spotify
 DOMAIN-SUFFIX,spotify.com
